@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="Binding_with_User_defineDataType">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="Binding_with_User_defineDataType"/>
+        <property name="java-output-path" value="/Binding_with_User_defineDataType/build/classes"/>
+    </wb-module>
+</project-modules>
